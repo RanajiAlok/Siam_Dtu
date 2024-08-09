@@ -1,3 +1,5 @@
+SIAM-DTU
+
 This project is a modern, responsive website for the Society of Industrial and Applied
 Mathematics (SIAM-DTU) at Delhi Technological University. The website serves as an
 informational hub for current and prospective members, as well as a showcase of the society’s
